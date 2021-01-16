@@ -1,0 +1,111 @@
+@media (max-width: 1199.98px){
+    h1{
+        margin: 200px 0 30px;
+        font-size: 42px;
+    }
+    .logo{
+        font-size: 22px;
+    }
+    header ul a{
+        font-size: 12px;
+    }
+    header{
+        padding-bottom: 200px;
+    }
+    .like p{
+        font-size: 26px;
+    }
+    .like a{
+        padding: 15px 24px;
+    }
+}
+@media (max-width: 991.98px){
+    h1{
+        margin: 170px 0 30px;
+        font-size: 36px;
+    }
+    .logo{
+        font-size: 20px;
+    }
+    header ul a{
+        font-size: 12px;
+    }
+    header p{
+        font-size: 18px;
+    }
+    .header-btn{
+        padding: 14px 25px;
+    }
+    header{
+        padding-bottom: 170px;
+    }
+    .like p{
+        font-size: 22px;
+    }
+    .like a{
+        padding: 14px 23px;
+    }
+    footer{
+        padding: 80px 0;
+    }
+}
+@media (max-width: 767.98px){
+    h1{
+        margin: 140px 0 30px;
+        font-size: 30px;
+    }
+    .logo{
+        font-size: 18px;
+    }
+    header ul a{
+        font-size: 12px;
+    }
+    header p{
+        font-size: 16px;
+    }
+    .header-btn{
+        padding: 12px 22px;
+    }
+    header{
+        padding-bottom: 140px;
+    }
+    .like p{
+        font-size: 20px;
+    }
+    .like a{
+        padding: 13px 22px;
+    }
+    footer{
+        padding: 70px 0;
+    }
+}
+@media (max-width: 575.98px){
+    h1{
+        margin: 110px 0 30px;
+        font-size: 24px;
+    }
+    .logo{
+        font-size: 16px;
+    }
+    header ul a{
+        font-size: 10px;
+    }
+    header p{
+        font-size: 14px;
+    }
+    .header-btn{
+        padding: 10px 20px;
+    }
+    header{
+        padding-bottom: 110px;
+    }
+    .like p{
+        font-size: 18px;
+    }
+    .like a{
+        padding: 11px 20px;
+    }
+    footer{
+        padding: 50px 0;
+    }
+}
